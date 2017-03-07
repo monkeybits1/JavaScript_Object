@@ -1,6 +1,6 @@
 # JavaScript_Object
 
-How to deep compare JavaScript objects? 
+  How to DEEP COMPARE JavaScript objects? 
 
 This code helps to deep compare objects containing string, number, boolean, function, array, and nested objects.
 
